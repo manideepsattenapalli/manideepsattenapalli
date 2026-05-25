@@ -1,23 +1,17 @@
-<!-- SECTION G: VISITOR COUNTER -->
+<!-- VISITOR COUNTER -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sattenapalli-manid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manideepsattenapalli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Mani+Deep;Full+Stack+Developer+%F0%9F%9A%80;Building+Cool+Stuff+with+Code+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <strong>Welcome to my GitHub Profile!</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+There!+%F0%9F%91%8B+I'm+Mani+Deep!;Full+Stack+Developer+%F0%9F%9A%80;Java+%2B+Spring+Boot+%2B+JavaScript+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<br/>
+  <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+
 </div>
 
 ---
@@ -25,16 +19,16 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-> *"Every expert was once a beginner. The key is to never stop learning."*
+> *"Every expert was once a beginner. The secret is to never stop coding."*
 
-I'm **Sattenapalli Mani Deep**, a passionate **Full Stack Developer** from India, eager to build impactful web applications and solve real-world problems through clean, efficient code.
+I'm **Sattenapalli Mani Deep**, a passionate **Full Stack Developer** from India 🇮🇳, driven to build clean, impactful web applications and grow fast in the tech world.
 
-- 🚀 **Fresher** with a hunger to learn and grow fast in the tech world
-- 💡 I love turning ideas into reality using **Java + Spring Boot** on the backend and **HTML/CSS/JS** on the frontend
-- 🌱 Currently leveling up my skills in **MongoDB** and cloud technologies
-- 🤝 Open to **collaborations**, **open-source contributions**, and exciting **job opportunities**
-- ⚡ Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎵
-- 🎯 **2025 Goal:** Build 5 full-stack projects and land my first dev role!
+- 🚀 **Fresher** with a strong hunger to learn, build, and contribute to real projects
+- 💡 I craft experiences using **Java + Spring Boot** on the backend and **HTML/CSS/JS** on the frontend
+- 🌱 Leveling up in **MongoDB** and exploring cloud & API development
+- 🤝 Open to **collaborations**, **internships**, and my **first full-stack role**
+- ☕ I debug best with coffee in hand and lo-fi beats playing
+- 🎯 **2025 Goal:** Ship 5 full-stack projects and land my dream dev job!
 
 ---
 
@@ -66,82 +60,57 @@ I'm **Sattenapalli Mani Deep**, a passionate **Full Stack Developer** from India
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sattenapalli-manid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sattenapalli-manid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@sattenapallimani" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@sattenapallimani" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sattenapalli_mani" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sattenapalli-manid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manideepsattenapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattenapalli-manid&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsattenapalli&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattenapalli-manid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideepsattenapalli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
 </div>
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sattenapalli-manid&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manideepsattenapalli&theme=darkhub&no-frame=true&margin-w=4&row=1" />
 </div>
 
 ---
 
-<!-- SECTION H: FOOTER -->
-## 🤝 Let's Build Something Together!
+<!-- SECTION E: FOOTER -->
+## 🤝 Let's Connect!
 
 <div align="center">
 
-  💼 I'm actively looking for my **first full-stack developer role**  
-  📬 Reach me at **LinkedIn** or drop a message — I respond fast!  
-  🌟 If you find my work interesting, consider giving a ⭐ to my repos!
+💼 Actively seeking my **first Full Stack Developer role**
+📬 I respond fast — let's talk tech, projects, or opportunities!
+🌟 Like what you see? Drop a ⭐ on my repos!
 
-  <br/>
+<br/>
 
-  <a href="https://www.linkedin.com/in/sattenapalli-manid" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/sattenapalli-manideep" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/manideepsattenapalli" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  ---
+---
 
-  <sub>✨ <em>"Code is like humor. When you have to explain it, it's bad."</em> — Cory House</sub>
+<sub>✨ <em>"First, solve the problem. Then, write the code."</em> — John Johnson</sub>
 
-  <br/>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
