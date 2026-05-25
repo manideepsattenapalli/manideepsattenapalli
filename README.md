@@ -60,37 +60,13 @@ I'm **Sattenapalli Mani Deep**, a passionate **Full Stack Developer** from India
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manideepsattenapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsattenapalli&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideepsattenapalli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manideepsattenapalli&theme=darkhub&no-frame=true&margin-w=4&row=1" />
-</div>
-
----
-
 <!-- SECTION E: FOOTER -->
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-💼 Actively seeking my **first Full Stack Developer role**
-📬 I respond fast — let's talk tech, projects, or opportunities!
+💼 Actively seeking my **first Full Stack Developer role**  
+📬 I respond fast — let's talk tech, projects, or opportunities!  
 🌟 Like what you see? Drop a ⭐ on my repos!
 
 <br/>
