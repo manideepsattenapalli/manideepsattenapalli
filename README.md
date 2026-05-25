@@ -28,7 +28,7 @@ I'm **Sattenapalli Mani Deep**, a passionate **Full Stack Developer** from India
 - 🌱 Leveling up in **MongoDB** and exploring cloud & API development
 - 🤝 Open to **collaborations**, **internships**, and my **first full-stack role**
 - ☕ I debug best with coffee in hand and lo-fi beats playing
-- 🎯 **2025 Goal:** Ship 5 full-stack projects and land my dream dev job!
+- 🎯 **2026 Goal:** Ship 5 full-stack projects and land my dream dev job!
 
 ---
 
